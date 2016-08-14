@@ -1,0 +1,1 @@
+This project was created in the end of 2010 and had been developed for half a year to "improve" health centers' accounts.
